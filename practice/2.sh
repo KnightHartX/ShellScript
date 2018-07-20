@@ -1,5 +1,5 @@
 #!/bin/bash
-a="10"
-b="60"
-c="100"
+a="dwad"
+echo $a
+unset a
 echo $a
