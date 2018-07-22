@@ -1,3 +1,3 @@
 # ShellScript
 
-Scripts for Shell
+Shell scripts for Linux class
